@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://comicparty.github.io/"
 languageCode = "zh-hans"
 title = "李杨帅 的 Boke"
 theme = "ananke"
