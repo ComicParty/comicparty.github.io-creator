@@ -26,7 +26,7 @@ hugo version
 注意：执行的时候需要下载东西，所以网络要好
 ![1-4](/images/boke2/3.4.png)
 
-## 4.`hugo new post/xxx.md`
+## 4.`hugo new posts/xxx.md`
    
 这一步相当于 创建一篇博客，博客名可以自定义
 
